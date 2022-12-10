@@ -1,0 +1,12 @@
+body { 
+    background-image: url(https://img.freepik.com/free-photo/beige-earth-tone-design-space-background_53876-102507.jpg?w=2000);
+}
+body th, td {
+    border-style: groove;
+}
+
+table{ 
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
